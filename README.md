@@ -6,16 +6,17 @@ Hola 👋
 
 <div align="center">
     <p>
-        <a href="/">
+        <a href="https://github.com/benbenbang">
             <img align="center" src="https://github-readme-stats.fortist.app/api?username=benbenbang&count_private=true&show_icons=true&theme=ayu-mirage&repo=github-readme-stats" />
         </a>
     </p>
     <p>
-        <a href="/">
-            <img align="center" src="https://github-readme-stats.fortist.app/api/top-langs/?username=benbenbang&exclude_repo=github-readme-stats,benbenbang.github.io,bn-portfolio,benbenbang,chezpeter,dash-user-contributions,documentations,redash,screen-saver,ud-jenkins,ud-data-engineering,pipeline-ai,ai-blocks,ptah-gitlab,ptah-cli,vc-showroom-bsf,amaze-base16-eighties,wiki,spring-cloud-in-python,github-matrix-screen-server,reinstall-mac-coding-env,dsti,dsti-share,wiki.js,neuralart_tensorflow,ml-envset,red-mansions,dropbox,jieba,slack-invite-automation,lotto,apartment-finder,waifu2x,boshiamy,cs231n.github.io,py-gaming,coursera-dl,py-tools,zhao-backup,zhao,musii,googleauthenticator,coursera-machine-learning,learning-py,webshell,slackbot,kaggle,py-data-analysis,data-visualization,py-webdev,py-qtbrowser,py-spark,velib,aws_tutorial,graph_theory,workalendar,spark-twitter-streaming-project,data-science-reference,py-machinelearning,pandas-profiling,airflow-exporter,keras-apache-mxnet-master,pyparsing,pip,py-tweaks,codility,deeplearning.ai,pyspartan,backmarket,powerlevel10k,powerlevel9k,airflow,sentry,snowpipe,vc-airflow-dags,vc-community-project,bm_learn,bm_projects,victorinox,implicit,airflow-docker,sparkling,autofill-vive-la-france,telnet,zoo,tempmail,toothie,tslearn,wsdm_kkbox,largepickleio,github-gitlab,stock,airflow_fastfill,ngboost-explore&langs_count=10&hide=html,javascript,jupyter notebook,objective-c,groff,makefile,tsql,matlab,c,c++&layout=compact" />
+        <a href="https://github.com/benbenbang">
+            <img align="center" src="https://github-readme-stats.fortist.app/api/top-langs/?username=benbenbang&langs_count=10&hide=html,javascript,jupyter notebook,objective-c,groff,makefile,tsql,matlab,c,c++&layout=compact&theme=ayu-mirage" />
         </a>
     </p>
 </div>
+
 
 ### About Me
 
@@ -31,6 +32,7 @@ If my background interested you and you like to know more, you can have a look o
 
 You can find me on:
 
+[![Resume](https://img.shields.io/badge/Resume-222222?style=flat-square&logo=appveyor&logoColor=important&link=https://github.com/benbenbang/benbenbang/blob/master/resume/latest.pdf)](https://github.com/benbenbang/benbenbang/blob/master/resume/latest.pdf)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=yellowgreen&link=https://www.linkedin.com/in/benbenbang/)](https://www.linkedin.com/in/benbenbang/)
 [![GitHub Ben](https://img.shields.io/github/followers/benbenbang?label=follow&style=social)](https://github.com/benbenbang?tab=followers)
 [![Docker](https://img.shields.io/badge/DockerHub-222222?style=flat-square&logo=Docker&logoColor=blueviolet&link=https://hub.docker.com/u/benbenbang)](https://hub.docker.com/u/benbenbang)
