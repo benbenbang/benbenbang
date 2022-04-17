@@ -1,0 +1,14 @@
+default_language_version:
+  python: python3
+
+default_stages: [commit]
+
+repos:
+  - repo: local
+    hooks:
+      - id: validate-commit-msg
+        name: Commit Message is Valid
+        language: pygrep
+        entry: ^(feat|maint|enh|init|doc|test|ops|k8s|ci|wip|fix|hotfix)(:)\s{0,1}([a-z,0-9,A-Z,\[,\],\-,\_,\/,:])
+        stages: [commit-msg]
+        args: [--negate]
