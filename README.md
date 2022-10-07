@@ -12,7 +12,7 @@ Hola 👋
     </p>
     <p>
         <a href="https://github.com/benbenbang">
-            <img align="center" src="https://github-readme-stats.fortist.app/api/top-langs/?username=benbenbang&langs_count=10&hide=html,javascript,jupyter notebook,objective-c,groff,makefile,tsql,matlab,c,c++,css,less,TeX,M4,PHP&layout=compact&theme=ayu-mirage" />
+            <img align="center" src="https://github-readme-stats.fortist.app/api/top-langs/?username=benbenbang&langs_count=10&hide=html,javascript,jupyter%20notebook,objective-c,groff,makefile,tsql,matlab,c,c++,css,less,TeX,M4,PHP&layout=compact&theme=ayu-mirage" />
         </a>
     </p>
 </div>
