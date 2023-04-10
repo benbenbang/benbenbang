@@ -7,12 +7,12 @@ Hola 👋
 <div align="center">
     <p>
         <a href="https://github.com/benbenbang">
-            <img align="center" src="https://github-readme-stats.fortist.app/api?username=benbenbang&count_private=true&show_icons=true&theme=ayu-mirage&repo=github-readme-stats" />
+            <img align="center" src="https://github-readme-stats.bn2g.app/api?username=benbenbang&count_private=true&show_icons=true&theme=ayu-mirage&repo=github-readme-stats" />
         </a>
     </p>
     <p>
         <a href="https://github.com/benbenbang">
-            <img align="center" src="https://github-readme-stats.fortist.app/api/top-langs/?username=benbenbang&langs_count=10&hide=html,javascript,jupyter%20notebook,objective-c,groff,makefile,tsql,matlab,c,c++,css,less,TeX,M4,PHP&layout=compact&theme=ayu-mirage" />
+            <img align="center" src="https://github-readme-stats.bn2g.app/api/top-langs/?username=benbenbang&langs_count=10&hide=html,javascript,jupyter%20notebook,objective-c,groff,makefile,tsql,matlab,c,c++,css,less,TeX,M4,PHP&layout=compact&theme=ayu-mirage" />
         </a>
     </p>
 </div>
