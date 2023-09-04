@@ -22,7 +22,7 @@ Hola 👋
 
 I am **Ben CHEN** (Also known as **Po-Chen CHEN** in mandarin 😉 ) from Taiwan, and I work and enjoy life in **Paris** at the moment. 
 
-I am a Machine Learning Engineer at [Vestiaire Collective](https://us.vestiairecollective.com) (come, [join us](https://us.vestiairecollective.com/about/join-us/)). At Vestiaire, I am mainly in charge of real-time data services, such as ranking, abtests, and chat monitoring on both the algorithms and architecture sides (e.g., design pattern, data pipeline, and infra). I am bilingual, a native **Parseltongue** 🐍 speaker, and fluent in **Golang**. I also work a lot with **Kafka** and **Spark**. Apart from my main projects, I also help my team set up **CI/CD flows** and **GraphQL** and maintain our **Airflow** services on **Kubernetes**.
+I am a Data Engineering Manager at [Vestiaire Collective](https://us.vestiairecollective.com) (come, [join us](https://us.vestiairecollective.com/about/join-us/)). At Vestiaire, I am mainly in charge of real-time data services, such as ranking, abtests, and chat monitoring on both the algorithms and architecture sides (e.g., design pattern, data pipeline, and infra). I am bilingual, a native **Parseltongue** 🐍 speaker, and fluent in **Golang**. I also work a lot with **Kafka** and **Spark**. Apart from my main projects, I also help my team set up **CI/CD flows** and **GraphQL** and maintain our **Airflow** services on **Kubernetes**.
 
 If my background interests you and you like to know more, you can look at my CV and feel free to reach out!
 
