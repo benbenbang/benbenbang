@@ -20,13 +20,19 @@ Hola 👋
 
 ### About Me
 
-I am **Ben CHEN** (Also known as **Po-Chen CHEN** in mandarin 😉 ) from Taiwan, and I work and enjoy life in **Paris** at the moment.
+I am **Ben CHEN** (also known as **Po-Chen CHEN** in Mandarin 😉 ) from Taiwan, and I currently work and enjoy life in Paris.
 
-I am a **Staff Data Engineer / Data Engineering Manager** at [Vestiaire Collective](https://us.vestiairecollective.com) (come, [join us](https://us.vestiairecollective.com/about/join-us/)). At Vestiaire, I am mainly in charge of real-time data services, such as ranking, abtests, and chat monitoring on both the algorithms and architecture sides (e.g., design pattern, data pipeline, and infra). I am bilingual, a native **Parseltongue** 🐍 speaker, and fluent in **Golang**. I also work a lot with **Kafka** and **Spark**. Apart from my main projects, I also help my team set up **CI/CD flows** and **GraphQL** and maintain our **Airflow** services on **Kubernetes**.
+As a **Staff Data Engineer** at [Vestiaire Collective](https://us.vestiairecollective.com) (come, [join us](https://us.vestiairecollective.com/about/join-us/)), I specialize in:
 
-If my background interests you and you like to know more, you can look at my CV and feel free to reach out!
+- Leading Big Data Processing Initiatives: Guiding the team in adopting advanced data processing paradigms, including batch processing, event-driven architectures, and real-time data handling, utilizing technologies such as Apache Kafka, Apache Spark, and Apache Flink.
 
+- Architecting High-Performance APIs: Designing and implementing scalable APIs to enhance system performance and reliability.
 
+- Developing Ephemeral Development Environments on Kubernetes: Creating on-demand, isolated development environments using Kubernetes, improving development efficiency and collaboration.
+
+- Maintaining Apache Airflow Clusters: Overseeing the management and optimization of Airflow infrastructure, ensuring seamless workflow orchestration and scheduling.
+
+I am bilingual, a native **Parseltongue** 🐍 speaker, and fluent in **Golang**. If my background interests you and you'd like to know more, feel free to reach out!
 
 ### Contact
 
