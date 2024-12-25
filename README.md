@@ -7,12 +7,12 @@ Hola 👋
 <div align="center">
     <p>
         <a href="https://github.com/benbenbang">
-            <img align="center" src="https://github-readme-stats.bn2g.app/api?username=benbenbang&count_private=true&show_icons=true&theme=ayu-mirage&repo=github-readme-stats" />
+            <img align="center" src="https://github-readme-stats.vercel.bn2g.app/api?username=benbenbang&count_private=true&show_icons=true&theme=ayu-mirage&repo=github-readme-stats" />
         </a>
     </p>
     <p>
         <a href="https://github.com/benbenbang">
-            <img align="center" src="https://github-readme-stats.bn2g.app/api/top-langs/?username=benbenbang&langs_count=10&hide=AppleScript,Java,M4,PHP,Ruby,Scala,Smarty,TeX,c,c++,css,groff,html,javascript,jinja,jupyter%20notebook,less,makefile,matlab,objective-c,tsql&layout=compact&theme=ayu-mirage" />
+            <img align="center" src="https://github-readme-stats.vercel.bn2g.app/api/top-langs/?username=benbenbang&langs_count=10&hide=AppleScript,Java,M4,PHP,Ruby,Scala,Smarty,TeX,c,c++,css,groff,html,javascript,jinja,jupyter%20notebook,less,makefile,matlab,objective-c,tsql&layout=compact&theme=ayu-mirage" />
         </a>
     </p>
 </div>
@@ -20,7 +20,7 @@ Hola 👋
 
 ### About Me
 
-I am **Ben CHEN** (Also known as **Po-Chen CHEN** in mandarin 😉 ) from Taiwan, and I work and enjoy life in **Paris** at the moment. 
+I am **Ben CHEN** (Also known as **Po-Chen CHEN** in mandarin 😉 ) from Taiwan, and I work and enjoy life in **Paris** at the moment.
 
 I am a **Staff Data Engineer / Data Engineering Manager** at [Vestiaire Collective](https://us.vestiairecollective.com) (come, [join us](https://us.vestiairecollective.com/about/join-us/)). At Vestiaire, I am mainly in charge of real-time data services, such as ranking, abtests, and chat monitoring on both the algorithms and architecture sides (e.g., design pattern, data pipeline, and infra). I am bilingual, a native **Parseltongue** 🐍 speaker, and fluent in **Golang**. I also work a lot with **Kafka** and **Spark**. Apart from my main projects, I also help my team set up **CI/CD flows** and **GraphQL** and maintain our **Airflow** services on **Kubernetes**.
 
