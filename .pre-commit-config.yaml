@@ -1,14 +1,25 @@
 default_language_version:
   python: python3
 
-default_stages: [commit]
+default_stages: [pre-commit]
 
 repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v6.0.0
+    hooks:
+      - id: check-yaml
+        args: ["--allow-multiple-documents"]
+      - id: end-of-file-fixer
+      - id: trailing-whitespace
+      - id: check-added-large-files
+        args: ["--maxkb=2048"] # 4500
+      - id: requirements-txt-fixer
+      - id: check-merge-conflict
   - repo: local
     hooks:
       - id: validate-commit-msg
         name: Commit Message is Valid
         language: pygrep
-        entry: ^(feat|maint|enh|init|doc|test|ops|k8s|ci|wip|fix|hotfix)(:)\s{0,1}([a-z,0-9,A-Z,\[,\],\-,\_,\/,:])
+        entry: ^(build|ci|docs|feat|fix|perf|refactor|style|test|ops|hotfix|release|chore|revert)\([\w,\.,\-,\(,\),\/]+\)(!?)(:)\s{1}([\w,\W,:]+)$
         stages: [commit-msg]
         args: [--negate]
